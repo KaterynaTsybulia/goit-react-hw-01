@@ -1,0 +1,17 @@
+.friendsWrapper {
+    margin-top: 30px;
+  }
+  .friendList {
+    list-style: none;
+    padding: 0;
+    margin: 15px, 0, 0, 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+  }
+
+
+  
+
+
+

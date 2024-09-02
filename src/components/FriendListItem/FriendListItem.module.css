@@ -1,0 +1,29 @@
+.friendCard {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    border: 2px solid rgb(39 31 31);;
+    border-radius: 4px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+  }
+  
+  .text{
+    color: rgb(39 31 31);
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .isOnline {
+    color: rgb(7, 139, 43);
+  }
+  
+  .isOffline {
+    color: rgb(231, 18, 18);
+  }
+
+  
